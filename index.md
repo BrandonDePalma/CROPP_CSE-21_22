@@ -15,7 +15,15 @@
   </tr>
   <tr>
     <td>Mileston 1</td>
-    <td>Value 2</td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td>Mileston 2</td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td>Mileston 3</td>
+    <td>...</td>
   </tr>
   </table>
 </html>
