@@ -1,6 +1,6 @@
 ## CROPP: Cubesat Research of Plant Platforms
 
-#### Computer Science Member
+#### Computer Science Team Member
 * Brandon DePalma - bdepalma2017@my.fit.edu
 
 #### Faculty Advisor
