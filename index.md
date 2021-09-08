@@ -10,11 +10,11 @@
 <html>
   <table>
   <tr>
-    <td>Key 1</td>
-    <td>Value 1</td>
+    <td>Plan (September 8)</td>
+    <td>Plan, Presentation</td>
   </tr>
   <tr>
-    <td>Key 2</td>
+    <td>Mileston 1</td>
     <td>Value 2</td>
   </tr>
   </table>
