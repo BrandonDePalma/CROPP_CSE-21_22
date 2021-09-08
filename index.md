@@ -14,7 +14,7 @@ Dr. Marius Silaghi
 
 #### Non-CSE Members
 ##### Aerospace Engineering
-Andrew Chrustic
+*Andrew Chrustic
 David Daughenbaugh
 Ran Easton
 Sarah Edwards
@@ -24,5 +24,5 @@ Jason Morgan
 Briana Student - Systems Engineer
 Bree Sweeney
 ##### Mechanical Engineering
-Michael Hoadley
+*Michael Hoadley
 Devlan McDaniels
