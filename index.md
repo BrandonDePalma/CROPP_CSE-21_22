@@ -11,7 +11,7 @@
   <table>
   <tr>
     <td>Plan (September 8)</td>
-    <td>Plan, Presentation</td>
+    <td><a href = "semester1/plan.pdf">Plan</a>, Presentation</td>
   </tr>
   <tr>
     <td>Mileston 1</td>
