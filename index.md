@@ -32,19 +32,19 @@
   <table>
   <tr>
     <td>Plan (January 2022)</td>
-    <td>...</td>
+    <td>Plan, Presentation</td>
   </tr>
   <tr>
     <td>Mileston 4 (Februrary 2022)</td>
-    <td>...</td>
+    <td>Presentation, Progress Evaluation</td>
   </tr>
   <tr>
     <td>Mileston 5 (March 2022)</td>
-    <td>...</td>
+    <td>Poster, E-book Page, Presentation, Progress Evaluation</td>
   </tr>
   <tr>
     <td>Mileston 6 (April 2022)</td>
-    <td>...</td>
+    <td>User and/or Developer Manual, Demo Video, Presentation, Progress Evaluation</td>
   </tr>
   </table>
 </html>
