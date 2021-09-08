@@ -28,3 +28,23 @@
   </table>
 </html>
 ### Second Semester
+<html>
+  <table>
+  <tr>
+    <td>Plan (September 8)</td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td>Mileston 4</td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td>Mileston 5</td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td>Mileston 6</td>
+    <td>...</td>
+  </tr>
+  </table>
+</html>
