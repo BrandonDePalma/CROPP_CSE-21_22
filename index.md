@@ -10,19 +10,19 @@
 <html>
   <table>
   <tr>
-    <td>Plan (September 8th)</td>
+    <td>Plan (September 8th, 2021)</td>
     <td><a href = "semester1/plan/plan.pdf">Plan</a>, <a href = "semester1/plan/planPres.pdf">Presentation</a></td>
   </tr>
   <tr>
-    <td>Mileston 1 (October 4th)</td>
-    <td>Requirement, Design, Test, Presentation, Progress Evaluation</td>
+    <td>Mileston 1 (October 4th, 2021)</td>
+    <td><a href = "semester1/milestone1/requirement.pdf">Requirement</a>, <a href = "semester1/milestone1/design.pdf">Design</a>, <a href = "semester1/milestone1/test.pdf">Test</a>, <a href = "semester1/milestone1/mile1Pres.pdf">Presentation</a>, <a href = "semester1/milestone1/mile1ProgEval.pdf">Progress Evaluation</a></td>
   </tr>
   <tr>
-    <td>Mileston 2 (November 1st)</td>
+    <td>Mileston 2 (November 1st, 2021)</td>
     <td><a href = "semester1/milestone2/mile2Pres.pdf">Presentation</a>, <a href = "semester1/milestone2/mile2ProgEval.pdf">Progress Evaluation</a></td>
   </tr>
   <tr>
-    <td>Mileston 3 (November 29th)</td>
+    <td>Mileston 3 (November 29th, 2021)</td>
     <td><a href = "semester1/milestone3/mile3Pres.pdf">Presentation</a>, <a href = "semester1/milestone3/mile3ProgEval.pdf">Progress Evaluation</a></td>
   </tr>
   </table>
@@ -31,19 +31,19 @@
 <html>
   <table>
   <tr>
-    <td>Plan</td>
+    <td>Plan (January 2022)</td>
     <td>...</td>
   </tr>
   <tr>
-    <td>Mileston 4</td>
+    <td>Mileston 4 (Februrary 2022)</td>
     <td>...</td>
   </tr>
   <tr>
-    <td>Mileston 5</td>
+    <td>Mileston 5 (March 2022)</td>
     <td>...</td>
   </tr>
   <tr>
-    <td>Mileston 6</td>
+    <td>Mileston 6 (April 2022)</td>
     <td>...</td>
   </tr>
   </table>
