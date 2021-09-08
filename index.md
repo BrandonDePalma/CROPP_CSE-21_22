@@ -10,19 +10,19 @@
 <html>
   <table>
   <tr>
-    <td>Plan (September 8)</td>
+    <td>Plan (September 8th)</td>
     <td><a href = "semester1/plan.pdf">Plan</a>, Presentation</td>
   </tr>
   <tr>
-    <td>Mileston 1</td>
+    <td>Mileston 1 (October 4th)</td>
     <td>...</td>
   </tr>
   <tr>
-    <td>Mileston 2</td>
+    <td>Mileston 2 (November 1st)</td>
     <td>...</td>
   </tr>
   <tr>
-    <td>Mileston 3</td>
+    <td>Mileston 3 (November 29th)</td>
     <td>...</td>
   </tr>
   </table>
@@ -31,7 +31,7 @@
 <html>
   <table>
   <tr>
-    <td>Plan (September 8)</td>
+    <td>Plan</td>
     <td>...</td>
   </tr>
   <tr>
