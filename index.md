@@ -2,10 +2,10 @@
 ## Computer Science
 
 #### Computer Science Team Member
-* Brandon DePalma - bdepalma2017@my.fit.edu
+* Brandon DePalma - [bdepalma2017@my.fit.edu](mailto:bdepalma2017@my.fit.edu)
 
 #### Faculty Advisor
-* Dr. Marius Silaghi - msilaghi@fit.edu
+* Dr. Marius Silaghi - [msilaghi@fit.edu](mailto:msilaghi@fit.edu)
 
 ### First Semester
 <html>
