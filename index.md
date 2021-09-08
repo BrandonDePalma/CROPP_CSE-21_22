@@ -5,7 +5,7 @@
 * Brandon DePalma - bdepalma2017@my.fit.edu
 
 #### Faculty Advisor
-* Dr. Marius Silaghi
+* Dr. Marius Silaghi - msilaghi@fit.edu
 
 ### First Semester
 <html>
