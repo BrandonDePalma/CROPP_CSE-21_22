@@ -35,7 +35,7 @@
     <td>Plan, Presentation</td>
   </tr>
   <tr>
-    <td>Mileston 4 (Februrary 2022)</td>
+    <td>Mileston 4 (February 2022)</td>
     <td>Presentation, Progress Evaluation</td>
   </tr>
   <tr>
