@@ -7,22 +7,5 @@
 
 
 ### First Semester
-
-
-
+Plan | Plan, 
 ### Second Semester
-
-#### Non-CSE Members
-##### Aerospace Engineering
-* Andrew Chrustic
-* David Daughenbaugh
-* Ran Easton
-* Sarah Edwards
-* Zachary Ewing - Project Lead
-* Jose Lopez
-* Jason Morgan
-* Briana Student - Systems Engineer
-* Bree Sweeney
-##### Mechanical Engineering
-* Michael Hoadley
-* Devlan McDaniels
