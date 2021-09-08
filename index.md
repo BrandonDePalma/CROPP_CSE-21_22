@@ -11,19 +11,19 @@
   <table>
   <tr>
     <td>Plan (September 8th)</td>
-    <td><a href = "semester1/plan.pdf">Plan</a>, Presentation</td>
+    <td><a href = "semester1/plan/plan.pdf">Plan</a>, <a href = "semester1/plan/planPres.pdf">Presentation</a></td>
   </tr>
   <tr>
     <td>Mileston 1 (October 4th)</td>
-    <td>...</td>
+    <td>Requirement, Design, Test, Presentation, Progress Evaluation</td>
   </tr>
   <tr>
     <td>Mileston 2 (November 1st)</td>
-    <td>...</td>
+    <td><a href = "semester1/milestone2/mile2Pres.pdf">Presentation</a>, <a href = "semester1/milestone2/mile2ProgEval.pdf">Progress Evaluation</a></td>
   </tr>
   <tr>
     <td>Mileston 3 (November 29th)</td>
-    <td>...</td>
+    <td><a href = "semester1/milestone3/mile3Pres.pdf">Presentation</a>, <a href = "semester1/milestone3/mile3ProgEval.pdf">Progress Evaluation</a></td>
   </tr>
   </table>
 </html>
