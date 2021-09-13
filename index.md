@@ -12,7 +12,7 @@
   <table>
   <tr>
     <td>Plan (September 8th, 2021)</td>
-    <td><a href = "/semester1/plan/CROPP_plan.pdf">Plan</a>, <a href = "semester1/plan/planPres.pdf">Presentation</a></td>
+    <td><a href = "semester1/plan/CROPP_Plan.pdf">Plan</a>, <a href = "semester1/plan/planPres.pdf">Presentation</a></td>
   </tr>
   <tr>
     <td>Mileston 1 (October 4th, 2021)</td>
